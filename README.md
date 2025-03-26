@@ -32,4 +32,4 @@ Proje dosya yapısı şu şekilde olacaktır:
 ### İletişim
 
 Herhangi bir sorunuz veya öneriniz varsa, aşağıdaki linki kullanabilirsiniz.
-- **GitHub Issues**: [https://github.com/evirgenfurkan/tharmon/issues](https://github.com/kullaniciadi/tharmon/issues)
+- **GitHub Issues**: [https://github.com/evirgenfurkan/TharMon/issues](https://github.com/evirgenfurkan/TharMon/issues)
